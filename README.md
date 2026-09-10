@@ -2,7 +2,7 @@
      search for [[ and replace every placeholder with a real number or delete the section.
      Do not publish with any [[ ]] left in the file. -->
 
-# Hoopstat
+# CourtSense
 
 Team-level shooting statistics from a handheld phone recording of an amateur basketball game.
 
