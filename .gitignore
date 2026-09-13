@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Model weights
+*.pt
+*.onnx
+
+# Project data and output
+data/
+output/
